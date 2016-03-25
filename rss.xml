@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[storingLIGHT]]></title>
+        <description><![CDATA[storingLIGHT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 21:14:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e7ff015-687c-4f68-b19f-fbcec377351d.jpg">]]></description>
+            <link>undefinedmy-photos-from-dismaland-a-temporary-art-project-organised/index.html</link>
+            <guid isPermaLink="false">fe88eb28-6c6d-4399-ae83-786c96794108</guid>
+            <pubDate>Fri, 25 Mar 2016 21:14:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
